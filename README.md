@@ -10,5 +10,7 @@
 083|Remove Duplicates from Sorted List|Java|o(n)|Easy
 141|Linked List Cycle|Java|o(n)|Easy
 876|Middle of the Linked List|Java|o(n)|Easy
+707|Design Linked List|Java | |Medium
+
 
 
