@@ -11,6 +11,10 @@
 141|Linked List Cycle|Java|o(n)|Easy
 876|Middle of the Linked List|Java|o(n)|Easy
 707|Design Linked List|Java | |Medium
+2|Add Two Numbers|Java|Medium
+
+<!-- 86.|Partition List|Java | |Medium -->
+
 
 
 
