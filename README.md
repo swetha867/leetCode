@@ -12,7 +12,9 @@
 876|Middle of the Linked List|Java|O(n)|Easy
 707|Design Linked List|Java | |Medium
 2|Add Two Numbers|Java| O(n)|Medium
-3|Longest Substring Without Repeating Characters| O(n)|Medium
+3|Longest Substring Without Repeating Characters|java| O(n)|Medium
+1317|Convert Integer to the Sum of Two No-Zero Integers| Java|O(n)|Easy
+
 
 
 <!-- 86.|Partition List|Java | |Medium -->
