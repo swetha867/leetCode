@@ -15,6 +15,10 @@
 3|Longest Substring Without Repeating Characters|java| O(n)|Medium
 1317|Convert Integer to the Sum of Two No-Zero Integers| Java|O(n)|Easy
 121| Best Time to Buy and Sell Stock|Java| O(n)|Easy
+66| Plus One|Java| O(n)|Easy
+136| Single Number|Java| O(n)|Easy
+
+
 
 
 
