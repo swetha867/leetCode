@@ -1,8 +1,6 @@
 # leetcode 
 
 
-
-
 | # | #Title | #Solution | #Time  | #Difficulty
 | :---: | :---: | :---: |:---: |:---:  |
 001 | Two_Sum | Java | o(n) | Easy 
@@ -17,6 +15,8 @@
 121| Best Time to Buy and Sell Stock|Java| O(n)|Easy
 66| Plus One|Java| O(n)|Easy
 136| Single Number|Java| O(n)|Easy
+58.| Length of Last Word|Java| O(n)|Easy
+
 
 
 
