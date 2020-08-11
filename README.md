@@ -21,6 +21,8 @@
 739.| Daily Temperatures| Java| O(n)|Medium
 1004.| Max Consecutive Ones III| Java| O(n)|Medium
 234.|Palindrome Linked List|Java|O(n)|Easy
+443.|String Compression|Java|O(n^2)|Easy
+
 
 
 
