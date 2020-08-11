@@ -18,6 +18,9 @@
 58.| Length of Last Word|Java| O(n)|Easy
 541.| Reverse String II|Java| O(n)|Easy
 557. |Reverse Words in a String III | Java |O(n)|Easy
+739.| Daily Temperatures| Java| O(n)|Medium
+1004.| Max Consecutive Ones III| Java| O(n)|Medium
+
 
 
 
