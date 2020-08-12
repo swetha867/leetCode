@@ -23,6 +23,8 @@
 234.|Palindrome Linked List|Java|O(n)|Easy
 443.|String Compression|Java|O(n^2)|Easy
 242.|Valid Anagram|Java|O(n)|Easy
+49.| Group Anagrams|Java|O(n)|Medium
+
 
 
 
