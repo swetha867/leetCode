@@ -24,6 +24,8 @@
 443.|String Compression|Java|O(n^2)|Easy
 242.|Valid Anagram|Java|O(n)|Easy
 49.| Group Anagrams|Java|O(n)|Medium
+266.|Palindrome Permutation|Java|O(n)|Easy
+
 
 
 
