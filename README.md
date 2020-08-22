@@ -25,6 +25,9 @@
 242.|Valid Anagram|Java|O(n)|Easy
 49.| Group Anagrams|Java|O(n)|Medium
 266.|Palindrome Permutation|Java|O(n)|Easy
+487.|Max Consecutive Ones II|Java|O(n)|Medium
+
+<!-- --.| Urlify|Java|O(n)|Easy -->
 
 
 
